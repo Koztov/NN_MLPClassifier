@@ -1,5 +1,3 @@
-#http://stackabuse.com/introduction-to-neural-networks-with-scikit-learn/
-
 # -*- coding: utf-8 -*-
 import pandas as pd
 
